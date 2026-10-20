@@ -1,4 +1,4 @@
-module github.com/doemagne/trace
+module github.com/the1allure/trace
 
 go 1.21.5
 
