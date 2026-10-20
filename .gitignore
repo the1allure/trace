@@ -1,0 +1,25 @@
+#Files
+#
+# main.go
+scope.s
+env.go
+compos-mentis
+Makefile
+app.rsa
+app.rsa.pub
+#
+#Directories
+#
+notes/
+.private/
+private
+data/
+keys/
+logs/
+#
+#Executables
+demo
+omed
+bean
+#
+raspinfo.txt
